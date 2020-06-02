@@ -12,3 +12,17 @@ Section: Tweaks
 Description: test tweaks
 Author: ahmad <lord4170@gmail.com>
 Name: HideYourApps
+
+Package: ca.menushka.menushkaprefs
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: Lord <lord4170@gmail.com>
+Filename: /ca.menushka.menushkaprefs.deb
+Size: 55984
+MD5sum: 2d2e3cdf70829bd6652023a8929a512a
+SHA1: 82bebd359a8f849188db752579fd742a1c0cb814
+SHA256: 649dbdb0a66849a25478e7a6f406f096c4f95b5ef5ef436db2e2e18c8babe1e5
+Section: Tweaks
+Description: test tweaks dependence
+Author: ahmad <lord4170@gmail.com>
+Name: MenushkaPrefs
